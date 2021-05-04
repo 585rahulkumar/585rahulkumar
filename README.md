@@ -20,7 +20,7 @@
 
 [<img align="left" alt="rahulkumar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="rahulkumar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="rahulkumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="rahulkumar" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/twitter-round-line-color.svg" />][twitter]
 </br>
 
 <h3 align="left">Languages and Tools:</h3>
