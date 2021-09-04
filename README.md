@@ -12,10 +12,6 @@
 
 📫 How to reach me Insta @iamrahulkumar99
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/a4xfrq6j3i8dau9djhhbujq1j)
-
 ### Connect with me:
 
 [<img align="left" alt="rahulkumar" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-round-line-color.svg" />][linkedin]
